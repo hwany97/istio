@@ -19,6 +19,8 @@ istioctl 설치 : https://devocean.sk.com/blog/techBoardDetail.do?ID=163655
 istio 기본 설정 : https://gruuuuu.github.io/cloud/service-mesh-istio/
 악분 블로그 : https://malwareanalysis.tistory.com/307#2.-ingress-gateway
 nginx + istio : https://medium.com/@bob.s.walters/using-istio-with-nginx-ingress-for-a-b-service-shifting-7b39596db2fe
+canary 배포 : https://devocean.sk.com/search/techBoardDetail.do?ID=164747&boardType=&query=istio&searchData=&page=&subIndex=&idList=
+
 
 현재 페이지 http://20.200.243.40/productpage
 
